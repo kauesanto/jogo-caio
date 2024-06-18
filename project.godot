@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="jogo kaue"
+config/name="Jogo-godot"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -19,3 +19,7 @@ config/icon="res://icon.svg"
 window/size/viewport_width=480
 window/size/viewport_height=720
 window/stretch/mode="canvas_items"
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
